@@ -116,3 +116,9 @@ The complete methodology, derivations, and robustness analysis are in the accomp
 All code is available at [repository link:https://github.com/pi-btc/MHS]
 
 *Feedback welcome. Particularly interested in: (1) whether the 60-day window should be TVL-weighted across markets, (2) whether the baseline period should be updated dynamically, (3) whether this approach generalises to Curve lending markets beyond crvUSD.*
+
+---
+
+## References
+
+LlamaRisk (2025). *Curve Market Health Scores Methodology*  https://llamarisk.com/research/curve-market-health-methodology
