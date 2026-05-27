@@ -1,4 +1,4 @@
-# [Research]Correlated Deterioration: A One-Line Fix to LlamaRisk's Market Health Score
+# [Research] Correlated Deterioration: A One-Line Fix to LlamaRisk's Market Health Score
 
 May 15, 2026
 
