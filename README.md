@@ -2,7 +2,7 @@
 
 May 15, 2026
 
-**** LlamaRisk's Market Health Score adds up seven risk dimensions as if they're independent. They're not—during stress, they all move together. We add a single correction factor derived from Random Matrix Theory that automatically penalises the score when dimensions co-deteriorate. It changes nothing during normal conditions and imposed a 14.3% penalty on the day of maximum 2024 stress and 10.9% on the eve of the October 2025 flash crash.
+LlamaRisk's Market Health Score adds up seven risk dimensions as if they're independent. They're not—during stress, they all move together. We add a single correction factor derived from Random Matrix Theory that automatically penalises the score when dimensions co-deteriorate. It changes nothing during normal conditions and imposed a 14.3% penalty on the day of maximum 2024 stress and 10.9% on the eve of the October 2025 flash crash.
 
 ---
 
